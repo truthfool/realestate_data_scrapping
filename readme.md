@@ -1,5 +1,5 @@
 # Real estate Data Scrapping 
 
-![](http://url/to/img.png)
+![](https://github.com/truthfool/realestate_data_scrapping/blob/master/sample/Screenshot%20(61).png)
 
-Source : [](https://www.century21.com/)
+Source : [https://www.century21.com/]()
